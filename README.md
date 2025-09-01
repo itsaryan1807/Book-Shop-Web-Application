@@ -29,7 +29,7 @@ WebBookApp/
 │     └─ web.xml   (optional if you use @WebServlet annotations)
 ├─ pom.xml         (only if you use Maven)
 └─ README.md
-
+```
 ## 🗄️ Database
 Create the database and table before running the app.
 
