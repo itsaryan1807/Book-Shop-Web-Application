@@ -29,12 +29,6 @@ WebBookApp/
 │     └─ web.xml   (optional if you use @WebServlet annotations)
 ├─ pom.xml         (only if you use Maven)
 └─ README.md
-```
-> In your code, the main endpoints are:
-> - `POST /register` — create a book
-> - `GET /bookList` — list books (with Edit/Delete links)
-> - `GET /editScreen?id=...` and `POST /editScreen` — edit a book
-> - `GET /deleteurl?id=...` — delete a book
 
 ## 🗄️ Database
 Create the database and table before running the app.
