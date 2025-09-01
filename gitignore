@@ -1,0 +1,25 @@
+# === Java / Build ===
+/target/
+/bin/
+/build/
+/out/
+
+# === Eclipse / IntelliJ / VS Code ===
+.classpath
+.project
+.settings/
+.idea/
+.vscode/
+*.iml
+
+# === Server / Workspace ===
+/Servers/
+.metadata/
+
+# === OS junk ===
+.DS_Store
+Thumbs.db
+
+# === Secrets ===
+db.properties
+src/main/resources/db.properties
